@@ -125,19 +125,6 @@ Web application developed to practice full-stack development and build a platfor
 
 [View Repository](https://github.com/Student-boy143/Pet-Adoption-Portal)
 
-GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Student-boy143&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-boy143&layout=compact&hide_border=true" height="170" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Student-boy143&hide_border=true" />
-
-</div>
-
 ## Education
 
 **B.Tech in Computer Engineering**  

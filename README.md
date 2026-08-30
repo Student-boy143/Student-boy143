@@ -1,8 +1,10 @@
 <div align="center">
 
-Hi, I'm Ramesh Patel
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ramesh+Patel" alt="Typing SVG" />
+</a>
 
-Machine Learning Engineer | Data Science Enthusiast | Data Analytics | Senior Year Student
+Machine Learning Enthusiast | Data Science Enthusiast | Data Analytics | Senior Year Student
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+%26+Analytics;Turning+Data+into+Insights;Learning+by+Doing" alt="Typing SVG" />

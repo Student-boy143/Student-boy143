@@ -59,8 +59,6 @@ Machine Learning Engineer | Data Science Enthusiast | Data Analytics | Senior Ye
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
 </p>
 
-**Currently learning:** Machine Learning fundamentals, data preprocessing, feature engineering, model evaluation
-
 ### Databases
 
 <p>
@@ -151,7 +149,7 @@ KJ Somaiya School of Engineering, Mumbai, India
 - **ATF Certificate — Top 8%**
 - **500+ DSA Problems Solved**
 
-Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramesh-patel-3a8493323/">

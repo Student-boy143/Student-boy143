@@ -80,47 +80,50 @@ Machine Learning Engineer | Data Science Enthusiast | Data Analytics | Senior Ye
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
 
-Featured Projects
+## Featured Projects
 
-Olympic Data Analysis
+### Olympic Data Analysis
+Exploratory analysis of Olympic Games data to uncover trends, patterns, and insights across athletes, countries, and events.
 
-An exploratory data analysis project focused on discovering trends and insights from Olympic Games data.
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
-Tech: Python · Pandas · NumPy · Matplotlib · Seaborn
+[View Repository](https://github.com/Student-boy143/olympic-data-analysis)
 
-🔗 View Repository
+---
 
-Consumer Shopping Analytics
+### Consumer Shopping Analytics
+End-to-end analytics project focused on customer behaviour, purchasing patterns, segmentation, and business insights.
 
-An end-to-end analytics project focused on understanding customer behaviour, purchasing patterns, and business insights.
+**Tech:** Python · SQL · Power BI
 
-Tech: Python · SQL · Power BI
+[View Repository](https://github.com/Student-boy143/consumer-shopping-analytics)
 
-🔗 View Repository
+---
 
-Zomato Data Insights
+### Zomato Data Insights
+Exploratory analysis of restaurant data to identify patterns in ratings, pricing, locations, and customer preferences.
 
-An exploratory analysis project using restaurant data to uncover patterns, trends, and useful business insights.
+**Tech:** Python · Pandas · Matplotlib · Seaborn
 
-Tech: Python · Pandas · Data Visualization
+[View Repository](https://github.com/Student-boy143/zomato-data-insights)
 
-🔗 View Repository
+---
 
-Amazon Clone
+### Amazon Clone
+Front-end e-commerce project built to strengthen web development fundamentals and recreate core shopping interactions.
 
-A front-end e-commerce project built to practice web development concepts and recreate core shopping interactions.
+**Tech:** HTML · CSS · JavaScript
 
-Tech: HTML · CSS · JavaScript
+[View Repository](https://github.com/Student-boy143/javascript-amazon-project)
 
-🔗 View Repository
+---
 
-Pet Adoption Portal
+### Pet Adoption Portal
+Web application developed to practice full-stack development and build a platform for connecting pets with potential adopters.
 
-A web application project focused on creating a platform for pet adoption and practicing full-stack web development concepts.
+**Tech:** PHP · HTML · CSS · JavaScript
 
-Tech: PHP · HTML · CSS · JavaScript
-
-🔗 View Repository
+[View Repository](https://github.com/Student-boy143/Pet-Adoption-Portal)
 
 GitHub Activity
 

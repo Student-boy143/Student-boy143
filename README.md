@@ -2,10 +2,10 @@
 
 Hi, I'm Ramesh Patel
 
-Computer Engineering Student | Data Analytics | Web Development | ML Learner
+Machine Learning Engineer | Data Science Enthusiast | Data Analytics | Senior Year Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+projects+to+learn+by+doing;Exploring+Data+Analytics+%26+Machine+Learning;Solving+DSA+problems;Learning+to+contribute+to+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+%26+Analytics;Turning+Data+into+Insights;Learning+by+Doing" alt="Typing SVG" />
 </a>
 
 <p>
@@ -19,59 +19,66 @@ Computer Engineering Student | Data Analytics | Web Development | ML Learner
 
 </div>
 
-About Me
+## About Me
 
-I'm a Computer Engineering student who enjoys building projects, working with data, and understanding how software works in real-world scenarios.
+**Computer Engineering student** at KJ Somaiya School of Engineering, Mumbai, India
 
-My current focus is on Data Analytics and Machine Learning, while continuing to strengthen my software development and problem-solving skills.
+- **Focused on** Python, Data Analytics, and solving data-driven problems
+- **Working with** SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, and Streamlit
+- **Building** practical data analytics projects using real-world datasets
+- **Currently learning** Machine Learning and developing a stronger foundation in predictive modeling
 
-Building data analytics projects using Python, SQL and visualization tools
+## Technical Skills
 
-Currently learning Machine Learning
-
-Practicing Data Structures & Algorithms
-
-Building and exploring web applications
-
-Learning how to contribute effectively to Open Source
-
-I learn best by building, experimenting, debugging, and improving
-
-🛠️ Technical Skills
-
-Programming Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-Data Analytics & Visualization
+### Data Analytics & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
-Python · Pandas · NumPy · SQL · Power BI · Matplotlib · Seaborn · Plotly · Streamlit · Jupyter Notebook
-
-Machine Learning
-
-Currently Learning: Machine Learning fundamentals · Scikit-learn · Data preprocessing · Feature engineering · Model evaluation
-
-Web Development
+### Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,django,php" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
 </p>
 
-Django · PostgreSQL · REST APIs · Bootstrap
+**Currently learning:** Machine Learning fundamentals, data preprocessing, feature engineering, model evaluation
 
-Tools
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-Git · GitHub · VS Code · Jupyter Notebook
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+</p>
 
 Featured Projects
 
@@ -128,48 +135,31 @@ GitHub Activity
 
 </div>
 
-Current Focus
+## Education
 
-Data Analytics
-      ↓
-SQL + Python + Power BI
-      ↓
-Machine Learning
-      ↓
-Real-world Projects
-      ↓
-Open Source Contributions
+**B.Tech in Computer Engineering**  
+KJ Somaiya School of Engineering, Mumbai, India
 
-Right now, I'm mainly focused on getting stronger at data analysis and machine learning, while continuing to build software projects and improve my problem-solving skills.
+## Experience
 
-Education
+**Web Developer — SwDC, KJSSE**
+- Contributed to web development projects in a collaborative team environment.
+- Worked on building and improving software features.
 
-B.Tech — Computer Engineering
-KJ Somaiya School of Engineering
+**Web Developer — InAmigos Foundation**
+- Contributed to web development tasks as part of a remote development team.
+- Worked collaboratively on project requirements and implementation.
 
-Experience
+## Problem Solving
 
-Web Developer — SwDC, KJSSE
+- **500+ DSA problems solved** across platforms.
+- Regularly practice Data Structures & Algorithms to strengthen problem-solving and algorithmic thinking.
+- Focus on writing efficient, readable, and maintainable solutions.
 
-Worked on web development and collaborative software projects.
+## Certifications & Achievements
 
-Web Developer — InAmigos Foundation
-
-Contributed to web development work in a team environment.
-
-Problem Solving
-
-Solved 500+ DSA problems
-
-Regularly practicing competitive programming and problem solving
-
-Focused on improving algorithmic thinking and writing cleaner solutions
-
-Certifications & Achievements
-
-ATF Certificate — Top 8%
-
-500+ DSA problems solved
+- **ATF Certificate — Top 8%**
+- **500+ DSA Problems Solved**
 
 Let's Connect
 

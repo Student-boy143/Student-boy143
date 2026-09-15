@@ -10,15 +10,6 @@ Machine Learning Enthusiast | Data Science Enthusiast | Data Analytics
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Science+%26+Analytics;Turning+Data+into+Insights;Learning+by+Doing" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://github.com/Student-boy143">
-    <img src="https://img.shields.io/github/followers/Student-boy143?label=Followers&style=for-the-badge" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/Student-boy143?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-25-181717?style=for-the-badge&logo=github" alt="Repositories">
-  </a>
-</p>
-
 </div>
 
 ## About Me
